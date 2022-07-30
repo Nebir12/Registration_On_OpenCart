@@ -1,0 +1,56 @@
+1659123199075	geckodriver	INFO	Listening on 127.0.0.1:56411
+1659123202152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56412" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ntahs\\AppData\\Local\\Temp\\rust_mozprofileeGTZ4U"
+1659123202478	Marionette	INFO	Marionette enabled
+1659123202483	Marionette	INFO	Listening on port 56423
+WebDriver BiDi listening on ws://localhost:56412
+Read port: 56423
+1659123202697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ntahs\\AppData\\Local\\Temp\\rust_mozprofileeGTZ4U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56412/devtools/browser/e1e73f2d-88b5-49b6-9a46-def21923d139
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659123239534	Marionette	INFO	Stopped listening on port 56423
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659123399901	geckodriver	INFO	Listening on 127.0.0.1:56576
+1659123402971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ntahs\\AppData\\Local\\Temp\\rust_mozprofileorUrmu"
+1659123403243	Marionette	INFO	Marionette enabled
+1659123403247	Marionette	INFO	Listening on port 56588
+WebDriver BiDi listening on ws://localhost:56577
+Read port: 56588
+1659123403352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ntahs\\AppData\\Local\\Temp\\rust_mozprofileorUrmu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56577/devtools/browser/8cdb7aa4-b7e0-4420-8ca2-3d206daea5f9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659123477218	Marionette	INFO	Stopped listening on port 56588
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659125004279	geckodriver	INFO	Listening on 127.0.0.1:56886
+1659125007381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ntahs\\AppData\\Local\\Temp\\rust_mozprofileNAvxIg"
+1659125007736	Marionette	INFO	Marionette enabled
+1659125007741	Marionette	INFO	Listening on port 56896
+WebDriver BiDi listening on ws://localhost:56887
+Read port: 56896
+1659125007944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ntahs\\AppData\\Local\\Temp\\rust_mozprofileNAvxIg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56887/devtools/browser/fdcd844c-23ff-48ff-a525-06bd3043a8b2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659125537906	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1659162879952	geckodriver	INFO	Listening on 127.0.0.1:57170
+1659162883016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ntahs\\AppData\\Local\\Temp\\rust_mozprofilexXoDRg"
+1659162883381	Marionette	INFO	Marionette enabled
+1659162883386	Marionette	INFO	Listening on port 57182
+WebDriver BiDi listening on ws://localhost:57171
+Read port: 57182
+1659162883617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ntahs\\AppData\\Local\\Temp\\rust_mozprofilexXoDRg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57171/devtools/browser/753f0433-8b48-455f-a840-8cf9bc9306ae
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.opencart.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659163413471	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
